@@ -1,6 +1,6 @@
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, Text, View } from "react-native";
-import NewButton from "./button";
+import NewButton from "./NewButton";
 export default function App() {
   return (
     <View style={styles.container}>
